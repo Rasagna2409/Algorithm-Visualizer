@@ -26,7 +26,7 @@ An interactive web-based tool to visualize how different algorithms work step-by
 * Linear Search 
 * Binary Search 
 
-### 🔹 Graph Algorithms *(planned)*
+### 🔹 Graph Algorithms 
 
 * BFS (Breadth First Search)
 * DFS (Depth First Search)
